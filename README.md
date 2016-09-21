@@ -1,8 +1,5 @@
-# Personal p5.js Project Starter
+# Regular Sketches
 
-A super minimal and comfortable starting point for p5.js personal projects.
+Loose creative sketches published regularly.
 
 
-## Includes
-
-* Minimal dev enviroment with live reloading
