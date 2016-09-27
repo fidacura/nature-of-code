@@ -1,3 +1,7 @@
+// This was coded while reading:
+// "The Nature of Code" by Daniel Shiffman
+// http://natureofcode.com/
+
 // Location
 var position;
 var velocity;
