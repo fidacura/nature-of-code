@@ -1,0 +1,33 @@
+{
+  "private": true,
+  "name": "regular-sketches",
+  "version": "1.0.0",
+  "description": "Regular creative experiences, mainly with p5.js.",
+  "main": "sketch.js",
+  "dependencies": {
+    "browser-sync": "^2.16.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kashofmann/regular-sketches.git"
+  },
+  "keywords": [
+    "creative",
+    "sketches",
+    "p5",
+    "p5.js",
+    "processing"
+  ],
+  "author": "Kasper Hofmann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kashofmann/regular-sketches/issues"
+  },
+  "homepage": "https://github.com/kashofmann/regular-sketches#readme"
+}

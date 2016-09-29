@@ -13,12 +13,16 @@ function draw () {
   var mouse = createVector(mouseX, mouseY);
   // Another vector for the center of the window
   var center = createVector(width/2,height/2);
-
   // Vector subtraction
   mouse.sub(center);
 
+  // Vector Normalization
+  mouse.normalize();
+
+  mouse.mult(100);
+
   translate(width/2,height/2);
-  strokeWeight(2);
-  stroke(255);
+  strokeWeight(3);
+  stroke(255,255,255);
   line(0,0,mouse.x,mouse.y);
 }
