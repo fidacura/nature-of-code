@@ -8,10 +8,18 @@ Code written while reading "The Nature of Code" by Daniel Shiffman.
 | 01	                  | Vectors                | Simple bouncing ball                   |
 | 02	                  | Vectors                | Bouncing ball using vectors            |
 | 03	                  | Vectors                | Vector Subtraction                     |
-| 04                      | Vectors                | Vector Multiplication                  |
-| 05                      | Vectors                | Vector Magnitude                       |
-| 06                      | Vectors                | Normalizing Vectors                    |
-| 07                      | Vectors                | Vector Motion: Velocity                |
-| 08                      | Vectors                | Vector Motion: Accelaration (constant) |
-| 09                      | Vectors                | Vector Motion: Accelaration (random)   |
-| 10                      | Vectors                | Vector Motion: Accelaration (towards the mouse) |
+| 04                      | Vectors                | Vector multiplication                  |
+| 05                      | Vectors                | Vector magnitude                       |
+| 06                      | Vectors                | Normalizing vectors                    |
+| 07                      | Vectors                | Vector motion: Velocity                |
+| 08                      | Vectors                | Vector motion: Accelaration (constant) |
+| 09                      | Vectors                | Vector motion: Accelaration (random)   |
+| 10                      | Vectors                | Vector motion: Accelaration (towards the mouse) |
+| 11                      | Forces                 | Forces                                 |
+| 12                      | Forces                 | Forces acting on many objects          |
+| 13                      | Forces                 | Gravity scaled by mass                 |
+| 14                      | Forces                 | Forces including friction              |
+| 15                      | Forces                 | Fluid resistance                       |
+| 16                      | Forces                 | Attraction                             |
+| 17                      | Forces                 | Attraction with many movers            |
+| 18                      | Forces                 | Mutual attraction                      |
