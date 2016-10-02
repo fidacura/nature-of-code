@@ -23,3 +23,14 @@ Code written while reading "The Nature of Code" by Daniel Shiffman.
 | 16                      | Forces                 | Attraction                             |
 | 17                      | Forces                 | Attraction with many movers            |
 | 18                      | Forces                 | Mutual attraction                      |
+| 19                      | Oscillation            | Angular motion                         |
+| 20                      | Oscillation            | Arbitrary angular motion               |
+| 21                      | Oscillation            | Pointing in the direction of movement  |
+| 22                      | Oscillation            | Polar to cartesian                     |
+| 23                      | Oscillation            | Simple harmonic motion                 |
+| 24                      | Oscillation            | Simple harmonic motion II              |
+| 25                      | Oscillation            | Oscillator objects                     |
+| 26                      | Oscillation            | Static wave line                       |
+| 27                      | Oscillation            | The wave                               |
+| 28                      | Oscillation            | Swinging Pendulum                      |
+| 29                      | Oscillation            | Spring                                 |
