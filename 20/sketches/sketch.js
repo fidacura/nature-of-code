@@ -16,7 +16,6 @@ function setup() {
 
 function draw() {
   background(51);
-  
 
   attractor.display();
 
